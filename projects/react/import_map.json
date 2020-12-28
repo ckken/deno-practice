@@ -1,0 +1,8 @@
+{
+    "imports": {
+       "react": "https://dev.jspm.io/react@16.13.1",
+       "react-dom":"https://dev.jspm.io/react-dom@16.13.1",
+       "react-dom-server":"https://dev.jspm.io/react-dom@16.13.1/server",
+       "opine":"https://deno.land/x/opine@0.25.0/mod.ts"
+    }
+ }
